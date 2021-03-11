@@ -1,4 +1,6 @@
-
+body{
+    background-image: url("https://images.app.goo.gl/8NwhMnewHka3JbpV8");
+}
 
 .center {
     text-align: center;
@@ -42,8 +44,10 @@ font-family: Helvetica, sans-serif;
 
 .ml-50 {
     margin-left: 50px;
+    align-items:center;
 }
 
 .p-15{
     padding: 15px;
 }
+
